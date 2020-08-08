@@ -1,0 +1,5 @@
+#info { position: absolute; height: 1px; width: 1px; z-index: 100; border: 1px solid black; display: inline-block; width: auto; height: auto; padding: 0.5em; padding-top: 0.2em; padding-bottom: 0.2em; background-color: rgba(0,0,0,0.5); color: white; }
+.tooltip.in { opacity: 1; }
+.tooltip.top .tooltip-arrow { border-top-color: white; }
+.tooltip-inner { border: 2px solid white; }
+#map{ position:relative; }
