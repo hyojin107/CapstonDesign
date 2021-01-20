@@ -19,3 +19,4 @@
 		<mapper resource="mybatis/query/default.xml" />
 	</mappers>
 </configuration>
+
